@@ -191,8 +191,8 @@
                  "type":"",
                  "visible":true,
                  "width":2700.91,
-                 "x":2681.33,
-                 "y":1539
+                 "x":2663.33333333333,
+                 "y":1539.33333333333
                 }, 
                 {
                  "gid":134,
@@ -265,6 +265,18 @@
                  "width":256,
                  "x":7040,
                  "y":1152
+                }, 
+                {
+                 "gid":98,
+                 "height":106,
+                 "id":904,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":106,
+                 "x":2304,
+                 "y":1024
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -431,18 +443,6 @@
                 {
                  "gid":111,
                  "height":128,
-                 "id":514,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":896,
-                 "y":1024
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
                  "id":515,
                  "name":"",
                  "rotation":0,
@@ -467,150 +467,6 @@
                 {
                  "gid":111,
                  "height":128,
-                 "id":517,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1152,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":518,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1280,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":519,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1536,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":520,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1536,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":521,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1408,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":522,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1664,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":523,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1792,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":524,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1920,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":525,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":2048,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":526,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":2176,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":527,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":2176,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":528,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":2304,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
                  "id":529,
                  "name":"",
                  "rotation":0,
@@ -630,30 +486,6 @@
                  "visible":true,
                  "width":128,
                  "x":2688,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":531,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":2816,
-                 "y":1024
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":533,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":2304,
                  "y":1152
                 }, 
                 {
@@ -714,18 +546,6 @@
                  "visible":true,
                  "width":128,
                  "x":2816,
-                 "y":1152
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":539,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":3200,
                  "y":1152
                 }, 
                 {
@@ -3681,78 +3501,6 @@
                  "y":1024
                 }, 
                 {
-                 "gid":123,
-                 "height":128,
-                 "id":805,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1152,
-                 "y":896
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":806,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1280,
-                 "y":896
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":807,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1536,
-                 "y":896
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":808,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1408,
-                 "y":896
-                }, 
-                {
-                 "gid":111,
-                 "height":128,
-                 "id":809,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1664,
-                 "y":896
-                }, 
-                {
-                 "gid":105,
-                 "height":128,
-                 "id":810,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":1792,
-                 "y":896
-                }, 
-                {
                  "gid":121,
                  "height":128,
                  "id":811,
@@ -4353,18 +4101,6 @@
                  "y":1152
                 }, 
                 {
-                 "gid":111,
-                 "height":128,
-                 "id":879,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":128,
-                 "x":10368,
-                 "y":1152
-                }, 
-                {
                  "gid":125,
                  "height":192,
                  "id":881,
@@ -4435,6 +4171,486 @@
                  "width":128,
                  "x":7424,
                  "y":1024
+                }, 
+                {
+                 "gid":113,
+                 "height":128,
+                 "id":894,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":0,
+                 "y":1280
+                }, 
+                {
+                 "gid":113,
+                 "height":128,
+                 "id":895,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":0,
+                 "y":1408
+                }, 
+                {
+                 "gid":105,
+                 "height":128,
+                 "id":939,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":4096,
+                 "y":512
+                }, 
+                {
+                 "gid":123,
+                 "height":128,
+                 "id":942,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":3968,
+                 "y":512
+                }, 
+                {
+                 "gid":123,
+                 "height":128,
+                 "id":949,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":-264,
+                 "y":4392
+                }, 
+                {
+                 "gid":111,
+                 "height":128,
+                 "id":951,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":3200,
+                 "y":1152
+                }, 
+                {
+                 "gid":110,
+                 "height":128,
+                 "id":952,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1152,
+                 "y":1024
+                }, 
+                {
+                 "gid":110,
+                 "height":128,
+                 "id":953,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1280,
+                 "y":896
+                }, 
+                {
+                 "gid":110,
+                 "height":128,
+                 "id":954,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1408,
+                 "y":768
+                }, 
+                {
+                 "gid":110,
+                 "height":128,
+                 "id":955,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1536,
+                 "y":640
+                }, 
+                {
+                 "gid":112,
+                 "height":128,
+                 "id":958,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2048,
+                 "y":640
+                }, 
+                {
+                 "gid":112,
+                 "height":128,
+                 "id":959,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2176,
+                 "y":768
+                }, 
+                {
+                 "gid":112,
+                 "height":128,
+                 "id":960,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2304,
+                 "y":896
+                }, 
+                {
+                 "gid":112,
+                 "height":128,
+                 "id":962,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2432,
+                 "y":1024
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":963,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1280,
+                 "y":1024
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":964,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1408,
+                 "y":896
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":965,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1408,
+                 "y":1024
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":966,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1536,
+                 "y":768
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":967,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1536,
+                 "y":1024
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":968,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1536,
+                 "y":896
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":970,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2304,
+                 "y":1024
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":971,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2176,
+                 "y":1024
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":972,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2176,
+                 "y":896
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":973,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2048,
+                 "y":768
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":974,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2048,
+                 "y":896
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":975,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2048,
+                 "y":1024
+                }, 
+                {
+                 "gid":133,
+                 "height":256,
+                 "id":976,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":256,
+                 "x":1792,
+                 "y":1024
+                }, 
+                {
+                 "gid":133,
+                 "height":256,
+                 "id":977,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":256,
+                 "x":1664,
+                 "y":1024
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":979,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1152,
+                 "y":1152
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":980,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1280,
+                 "y":1152
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":981,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1408,
+                 "y":1152
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":982,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1408,
+                 "y":1152
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":983,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1536,
+                 "y":1152
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":984,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1664,
+                 "y":1152
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":985,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1664,
+                 "y":1152
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":986,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1920,
+                 "y":1152
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":987,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":1792,
+                 "y":1152
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":988,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2048,
+                 "y":1152
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":989,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2176,
+                 "y":1152
+                }, 
+                {
+                 "gid":114,
+                 "height":128,
+                 "id":990,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":128,
+                 "x":2304,
+                 "y":1152
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -4462,7 +4678,7 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":892,
+ "nextobjectid":991,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.1.2",
@@ -4486,265 +4702,265 @@
             {
              "100":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/TombStone2.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/TombStone2.png",
                  "imageheight":76,
                  "imagewidth":53
                 },
              "101":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/Sign.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/Sign.png",
                  "imageheight":93,
                  "imagewidth":91
                 },
              "102":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/Skeleton.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/Skeleton.png",
                  "imageheight":50,
                  "imagewidth":102
                 },
              "103":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/TombStone1.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/TombStone1.png",
                  "imageheight":55,
                  "imagewidth":54
                 },
              "104":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile16.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile16.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "105":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Bone1.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Bone1.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "106":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Bone2.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Bone2.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "107":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Bone3.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Bone3.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "108":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Bone4.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Bone4.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "109":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile1.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile1.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "110":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile2.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile2.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "111":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile3.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile3.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "112":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile4.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile4.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "113":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile5.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile5.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "114":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile6.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile6.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "115":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile7.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile7.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "116":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile8.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile8.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "117":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile9.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile9.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "118":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile10.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile10.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "119":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile11.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile11.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "120":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile12.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile12.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "121":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile13.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile13.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "122":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile14.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile14.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "123":
                 {
-                 "image":"..\/sprites\/graveyard\/Tiles\/Tile15.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Tiles\/Tile15.png",
                  "imageheight":128,
                  "imagewidth":128
                 },
              "124":
                 {
-                 "image":"..\/sprites\/Space\/Tiles\/Acid1.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/Space\/Tiles\/Acid1.png",
                  "imageheight":256,
                  "imagewidth":256
                 },
              "125":
                 {
-                 "image":"..\/sprites\/Space\/Tiles\/Acid2.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/Space\/Tiles\/Acid2.png",
                  "imageheight":256,
                  "imagewidth":256
                 },
              "126":
                 {
-                 "image":"..\/sprites\/Space\/Tiles\/Fence3.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/Space\/Tiles\/Fence3.png",
                  "imageheight":256,
                  "imagewidth":256
                 },
              "127":
                 {
-                 "image":"..\/sprites\/Space\/Tiles\/BGTile4.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/Space\/Tiles\/BGTile4.png",
                  "imageheight":256,
                  "imagewidth":256
                 },
              "128":
                 {
-                 "image":"..\/sprites\/Space\/Tiles\/BGTile5.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/Space\/Tiles\/BGTile5.png",
                  "imageheight":256,
                  "imagewidth":256
                 },
              "129":
                 {
-                 "image":"..\/sprites\/Space\/Tiles\/BGTile6.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/Space\/Tiles\/BGTile6.png",
                  "imageheight":256,
                  "imagewidth":256
                 },
              "130":
                 {
-                 "image":"..\/sprites\/Space\/Tiles\/Fence1.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/Space\/Tiles\/Fence1.png",
                  "imageheight":256,
                  "imagewidth":256
                 },
              "131":
                 {
-                 "image":"..\/sprites\/Space\/Tiles\/Fence2.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/Space\/Tiles\/Fence2.png",
                  "imageheight":256,
                  "imagewidth":256
                 },
              "132":
                 {
-                 "image":"..\/sprites\/Space\/Tiles\/Spike.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/Space\/Tiles\/Spike.png",
                  "imageheight":256,
                  "imagewidth":256
                 },
              "133":
                 {
-                 "image":"..\/sprites\/graveyard\/graveyardBG.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/graveyardBG.png",
                  "imageheight":1143,
                  "imagewidth":2000
                 },
              "90":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/TombStone2.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/TombStone2.png",
                  "imageheight":76,
                  "imagewidth":53
                 },
              "91":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/Tree.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/Tree.png",
                  "imageheight":239,
                  "imagewidth":286
                 },
              "92":
                 {
-                 "image":"..\/sprites\/Space\/Tiles\/Acid1.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/Space\/Tiles\/Acid1.png",
                  "imageheight":256,
                  "imagewidth":256
                 },
              "93":
                 {
-                 "image":"..\/sprites\/Space\/Tiles\/Acid2.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/Space\/Tiles\/Acid2.png",
                  "imageheight":256,
                  "imagewidth":256
                 },
              "94":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/ArrowSign.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/ArrowSign.png",
                  "imageheight":87,
                  "imagewidth":86
                 },
              "95":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/Bush1.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/Bush1.png",
                  "imageheight":90,
                  "imagewidth":182
                 },
              "96":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/Bush2.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/Bush2.png",
                  "imageheight":64,
                  "imagewidth":100
                 },
              "97":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/Crate.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/Crate.png",
                  "imageheight":106,
                  "imagewidth":106
                 },
              "98":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/DeadBush.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/DeadBush.png",
                  "imageheight":74,
                  "imagewidth":132
                 },
              "99":
                 {
-                 "image":"..\/sprites\/graveyard\/Objects\/Tree.png",
+                 "image":"..\/..\/..\/..\/Forking\/assets\/sprites\/graveyard\/Objects\/Tree.png",
                  "imageheight":239,
                  "imagewidth":286
                 }
